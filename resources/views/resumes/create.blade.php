@@ -2,6 +2,6 @@
 
 @section('content')
 <div class="container">
-    LA NUNNU LOCO
+        <resume-form /> 
 </div>
 @endsection

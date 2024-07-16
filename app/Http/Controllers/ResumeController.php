@@ -14,4 +14,8 @@ class ResumeController extends Controller
     public function create(){
         return view('resumes.create');
     }
+
+    public function store(Request $request){
+
+    }
 }
